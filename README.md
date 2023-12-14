@@ -85,3 +85,5 @@ As a current student passionate about learning how to code, I've compiled this t
 
 [Link to my GitHub Profile](https://github.com/hsolojr)
 
+Link to the original gist file on GitHub
+https://gist.github.com/7923c5ce4a50b920979e038490574499.git
